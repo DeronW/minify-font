@@ -20,6 +20,7 @@
 
 ```shell
 npm i
-npm run buil
+npm run build
 ```
 
+新的精简版字体文件输出到 `dest` 目录中.
