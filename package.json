@@ -3,6 +3,6 @@
     "build": "node index.js"
   },
   "dependencies": {
-    "fontmin": "^0.9.8"
+    "fontmin": "0.9.9"
   }
 }
