@@ -12,11 +12,11 @@
 
     https://github.com/DavidSheh/CommonChineseCharacter
 
-| 字体（免费可商用） | 精简前 | 精简后 |
-| ------------------ | ------ | ------ |
-| 思源黑体           | 8.1M   | 834K   |
-| 阿里巴巴普惠体     | 9.6M   | 1M     |
-| OPPO San           | 10.1M  | 1.1M   |
+| 字体（免费可商用） | 精简前 | 精简后 |                                                                                          |
+| ------------------ | ------ | ------ | ---------------------------------------------------------------------------------------- |
+| 思源黑体           | 8.1M   | 834K   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/SourceHanSansCN-Medium.ttf) |
+| 阿里巴巴普惠体     | 9.6M   | 1M     | [下载](https://github.com/DeronW/minify-font/raw/master/dist/Alibaba-PuHuiTi-Medium.ttf) |
+| OPPO San           | 10.1M  | 1.1M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/OPPOSans-M.ttf)             |
 
 ### 手动精简方法
 
