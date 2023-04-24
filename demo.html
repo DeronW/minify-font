@@ -1,33 +1,66 @@
 <!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <title>免费黑体</title>
+    <style>
+      @font-face {
+        font-family: "思源黑体";
+        src: url("./dist/SourceHanSansCN-Medium.ttf");
+      }
 
-<head>
-  <title>思源黑体</title>
-  <style>
-    @font-face {
-      font-family: "思源黑体";
-      src: url("./dest/SourceHanSansCN-Medium.ttf");
-    }
+      @font-face {
+        font-family: "阿里黑体";
+        src: url("./dist/Alibaba-PuHuiTi-Medium.ttf");
+      }
 
-    .set-font {
-      font-family: "思源黑体";
-    }
-  </style>
-</head>
+      @font-face {
+        font-family: "OPPO黑体";
+        src: url("./dist/OPPOSans-M.ttf");
+      }
 
-<body>
-  <h2>思源黑体</h2>
-  <div class="set-font">
-    <div>这是思源黑体</div>
-    <div>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</div>
-    <div>1234567890-=！@#￥%……&*()~:"{}[]|\?/<>,.;'+</div>
-    <div>空格：--- ---</div>
-  </div>
+      .si-yuan {
+        font-family: "思源黑体";
+      }
+      .a-li {
+        font-family: "阿里黑体";
+      }
+      .oppo {
+        font-family: "OPPO黑体";
+      }
+    </style>
+  </head>
 
-  <h2>默认字体</h2>
-  <div>
-    <div>这是默认字体</div>
-    <div>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</div>
-    <div>1234567890-=！@#￥%……&*()~:"{}[]|\?/<>,.;'+</div>
-    <div>空格：--- ---</div>
-  </div>
-</body>
+  <body>
+    <h2>默认字体</h2>
+    <div>
+      <div>这是默认字体</div>
+      <div>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</div>
+      <div>1234567890-=！@#￥%……&*()~:"{}[]|\?/<>,.;'+</div>
+      <div>空格:--- ---</div>
+    </div>
+
+    <h2>思源黑体</h2>
+    <div class="si-yuan">
+      <div>这是思源黑体</div>
+      <div>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</div>
+      <div>1234567890-=!@#￥%……&*()~:"{}[]|\?/<>,.;'+</div>
+      <div>空格:--- ---</div>
+    </div>
+
+    <h2>阿里黑体</h2>
+    <div class="a-li">
+      <div>这是阿里黑体</div>
+      <div>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</div>
+      <div>1234567890-=!@#￥%……&*()~:"{}[]|\?/<>,.;'+</div>
+      <div>空格:--- ---</div>
+    </div>
+
+    <h2>OPPO黑体</h2>
+    <div class="oppo">
+      <div>这是OPPO黑体</div>
+      <div>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</div>
+      <div>1234567890-=!@#￥%……&*()~:"{}[]|\?/<>,.;'+</div>
+      <div>空格:--- ---</div>
+    </div>
+  </body>
+</html>
