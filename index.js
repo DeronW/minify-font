@@ -8,6 +8,8 @@ const fonts = [
   "./fonts/Alibaba-PuHuiTi-Medium.ttf",
   // OPPO 体
   "./fonts/OPPOSans-M.ttf",
+  // 霞鹜文凯
+  "./fonts/LXGWWenKai-Regular.ttf"
 ];
 
 for (const font of fonts) {

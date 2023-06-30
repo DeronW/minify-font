@@ -15,6 +15,7 @@
 | 思源黑体           | 8.1M   | 834K   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/SourceHanSansCN-Medium.ttf) |
 | 阿里巴巴普惠体     | 9.6M   | 1M     | [下载](https://github.com/DeronW/minify-font/raw/master/dist/Alibaba-PuHuiTi-Medium.ttf) |
 | OPPO San           | 10.1M  | 1.1M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/OPPOSans-M.ttf)             |
+| 霞鹜楷体           | 16.3M  | 1.7M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/LXGWWenKai-Regular.ttf)     |
 
 ### 手动精简方法
 
@@ -32,7 +33,3 @@ npm run build
 #### 本地演示
 
 下载项目，然后直接打开根目录下的 `demo.html` 文件。
-
-### TODO
-
-添加 [霞鹜文楷](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)
