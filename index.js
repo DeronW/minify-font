@@ -9,7 +9,9 @@ const fonts = [
   // OPPO 体
   "./fonts/OPPOSans-M.ttf",
   // 霞鹜文凯
-  "./fonts/LXGWWenKai-Regular.ttf"
+  "./fonts/LXGWWenKai-Regular.ttf",
+  // 小米字体
+  "./fonts/MiSans-Regular.ttf",
 ];
 
 for (const font of fonts) {

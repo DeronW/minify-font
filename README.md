@@ -14,8 +14,9 @@
 | ------------------ | ------ | ------ | ---------------------------------------------------------------------------------------- |
 | 思源黑体           | 8.1M   | 834K   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/SourceHanSansCN-Medium.ttf) |
 | 阿里巴巴普惠体     | 9.6M   | 1M     | [下载](https://github.com/DeronW/minify-font/raw/master/dist/Alibaba-PuHuiTi-Medium.ttf) |
-| OPPO San           | 10.1M  | 1.1M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/OPPOSans-M.ttf)             |
+| OPPO Sans          | 10.1M  | 1.1M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/OPPOSans-M.ttf)             |
 | 霞鹜楷体           | 16.3M  | 1.7M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/LXGWWenKai-Regular.ttf)     |
+| 小米字体 MiSans    | 7.9M   | 833K   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/MiSans-Regular.ttf)         |
 
 ### 手动精简方法
 
