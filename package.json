@@ -1,8 +1,9 @@
 {
+  "type": "module",
   "scripts": {
     "build": "node index.js"
   },
   "dependencies": {
-    "fontmin": "0.9.9"
+    "fontmin": "2.0.0"
   }
 }

@@ -1,5 +1,5 @@
-const Fontmin = require("fontmin");
-const text = require("./chars");
+import Fontmin from "fontmin";
+import text from "./chars.js";
 
 const fonts = [
   // 思源黑体
@@ -14,6 +14,8 @@ const fonts = [
   "./fonts/MiSans-Regular.ttf",
   // 更纱字体
   "./fonts/Sarasa-Gothic-SC-Regular.ttf",
+  // 旁门正道字体
+  "./fonts/PangMenZhengDao-Regular.ttf",
 ];
 
 for (const font of fonts) {

@@ -18,6 +18,7 @@
 | 霞鹜楷体           | 16.3M  | 1.7M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/LXGWWenKai-Regular.ttf)       |
 | 小米字体 MiSans    | 7.9M   | 833K   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/MiSans-Regular.ttf)           |
 | 更沙体             | 22.5M  | 1.7M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/Sarasa-Gothic-SC-Regular.ttf) |
+| 旁门正道字体       | 3.2M   | 1.9M   | [下载](https://github.com/DeronW/minify-font/raw/master/dist/PangMenZhengDao-Regular.ttf)  |
 
 ### 手动精简方法
 
