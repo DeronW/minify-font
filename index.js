@@ -12,6 +12,8 @@ const fonts = [
   "./fonts/LXGWWenKai-Regular.ttf",
   // 小米字体
   "./fonts/MiSans-Regular.ttf",
+  // 更纱字体
+  "./fonts/Sarasa-Gothic-SC-Regular.ttf",
 ];
 
 for (const font of fonts) {
